@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our Health Care Solutions</h1>
+    </header>
+    <section class="main-content">
+        <h2>About Us</h2>
+        <p>AYUZERA </p>
+        <p>A Brand By Winzera Pvt.Ltd.Company </p>
+        <p>About Ayuzera</p>
+        <p>Welcome to Ayuzera, where we believe that nature holds the key to holistic health. Our Ayurvedic healthcare brand is committed to creating products that promote ingredients that are backed by scientific research and recognized as superfoods or superfruits. We take pride in offering sugar-free, gluten-free, and heavy metal-free products that provide our customers with the best of nature's goodness.
+
+            At Ayuzera, we are not just another healthcare brand. We believe that true wellness is a journey that starts with a commitment to self-care. Our goal is to provide our customers with a comprehensive approach to holistic health through our Product Program Technology (PPT) model. Our healthcare products are just one part of this model. We also offer person- alized guidance from healthcare professionals through our programs. When you sign up on our Ayuzera app, you become part of a community that believes in the power of nature and
+            
+            the importance of self-care. We are committed to providing you with the best possible care and support on your journey to a Healthier YOU!
+            
+            Join us at Ayuzera, where we strive to create a community of like-minded individuals who believe in the power of nature and want to live healthier lives.</p>
+        <a href="#contact" class="cta-button">Contact Us</a>
+    </section>
+    <footer id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: pawarsakshi3810@gamil.com</p>
+        <p>Phone: +919762111639</p>
+    </footer>
+</body>
+</html>
