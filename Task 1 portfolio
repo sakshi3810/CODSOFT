@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 50px 20px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .education-item {
+    margin-bottom: 20px;
+  }
+  img#self-photo {
+    max-width: 20px; /* Set maximum width for the photo */
+    height: 10px; /* Let the height adjust automatically to maintain aspect ratio */
+    display: block;
+    margin: 20px auto;
+    border-radius: 50%; /* Creates a circular shape */
+    overflow: hidden; /* Clips the image to the shape of the border-radius */
+  }
+  
