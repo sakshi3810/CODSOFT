@@ -1,0 +1,22 @@
+const input = document.getElementById('input');
+const clear = document.getElementById('clear');
+const equal = document.getElementById('equal');
+const allButton = document.querySelectorAll('button');
+
+for (let button of allButton) {
+    button.addEventListener('click', (e) => {
+        let buttonText = e.target.innerText;
+
+        if (buttonText === 'X') buttonText = '*'; // Corrected to handle multiplication
+
+        input.value += buttonText;
+    });
+}
+
+equal.addEventListener('click', () => {
+    let inputs = input.value;
+    if (inputs.includes('X')) inputs = inputs.replace(/X/g, '*'); // Corrected to replace all 'X' characters
+    input.value = eval(inputs); // Corrected to evaluate the expression outside the loop
+});
+
+clear.addEventListener('click', () => input.value = '');
