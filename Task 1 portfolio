@@ -1,0 +1,11 @@
+<script>
+  function handleSubmit(event) {
+    event.preventDefault(); // Prevent default form submission
+    // Here you can add code to send the form data to your backend (e.g., using AJAX)
+    // After the form data is successfully submitted, display the notification
+    document.getElementById("notification").style.display = "block";
+    return false; // Prevent the form from refreshing the page
+  }
+</script>
+// Replace the empty src attribute of the image with your self photo URL
+document.getElementById('self-photo').src = 'your_self_photo.jpg';
