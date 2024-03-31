@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Engineering Student Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>My Portfolio</h1>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#education">Education</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Myself</h1>
+    <h1>Electronic & Telecommunication Engineer</h1>
+  </header>
+  <section id="about">
+    <div class="container">
+      <img id="self-photo" src="c:\Users\pawar\Downloads\WhatsApp Image 2024-03-15 at 22.58.55_b27024df (2).jpg" alt="Self Photo">
+    </div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+
+  <section id="about">
+    <h2>About Me</h2>
+    <h2>Pawar Sakshi Baban</h2>
+    <p>I am a passionate engineering student with a focus on Electronic And Telecommunication Engineering. I am eager to apply my knowledge and skills to real-world projects.</p>
+    <p>"Hello, my name is Pawar Sakshi Baban. I am deeply passionate about the intersection of technology and communication, which is why I pursued a degree in electronics and telecommunication engineering. Throughout my academic journey, I've developed a strong foundation in circuit design, signal processing, and communication systems. I've also had the opportunity to work on several projects where I applied theoretical knowledge to practical solutions. I am eager to continue learning and contributing to the advancements in this field, and I believe that this program aligns perfectly with my aspirations. Thank you for considering my candidacy."</p>
+    <li>I Am Also Collabrate With A Health Tech Startup To Improve My Marketing Skills And many other soft skills. i.e.people skills,communication skills,leadership, Time Management  </li>
+    <li>Currently In Second Year of Electronics and Telecommunication.</li>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+      <li>I made a project on Automatic Campus Light Control By Using IC LM358.</li>
+      <li>I Completed My 1 Month Internship In Web Development And Designing As a Intern.</li>
+      <li>I Also Participated Institute Level Project Compitition for the same project.</li>  
+    </div>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Technical Skills:</li>
+      <ul>
+        <li>Programming Languages: C/C++, Python, HTML,CSS,Javascript</Html></li>
+        <li>Tools: MATLAB</li>
+        <li>Software Development: Git, IDEs (e.g., Visual Studio Code, Eclipse)</li>
+      </ul>
+      <li>Soft Skills:</li>
+      <ul>
+        <li>Problem Solving</li>
+        <li>Teamwork</li>
+        <li>Communication</li>
+        <li>Leadership</li>
+        <li>Time Management</li>
+      </ul>
+    </ul>
+  </section>
+
+  <section id="education">
+    <h2>Education</h2>
+    <div class="education-item">
+      <h3>Currently Pursuing Bachelor's Of Engineering In Electronic And Telecommunication Engineering</Em></h3>
+      <li> Pursuing From Savitribai Phule Pune University At Jspm's Bhivarabai Sawant Institute Of Technonolgy And Research</li>
+      <h3>I Completed My HSC(12th) With Distinction 86.67%</h3>
+      <li>Completed From Gurudev Semi-English School And Junior College Supa MIDC</li>
+      <h3>I Completed My Schooling And SSC(10th) With Distinction 88.80%</h3> 
+      <li>Completed From New English School And Junior College Supa</li>
+      </div>
+    <!-- Additional education items can be added here -->
+  </section>
+  <h4>Resume File</h4>
+  <a href="C:\Users\pawar\OneDrive\Desktop\SAKSHI Resume final.docx" download>Download Resume</a>
+
+  <!-- Your contact section goes here -->
+  <section id="contact">
+    <div class="container">
+      <h2>Contact Me</h2>
+      Email- pawarsakshi3810@gmail.communication
+      <p>Contact Me- 9975709031<p> 
+    </div>
+  </section>
+  <!-- Appreciation message -->
+  <section id="appreciation">
+    <div class="container">
+      <h2>Thank You!</h2>
+      <p>Thank you for contacting me.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Pawar Sakshi Baban Portfolio</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+<footer>
+  <p>Thank you for visiting my portfolio!</p>
+</footer>
+</body>
+</html>
